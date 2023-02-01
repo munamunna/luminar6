@@ -1,0 +1,99 @@
+#btn{
+    background-color: #5e068a;
+    color: orange;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 5px;
+}
+#btn:hover{
+    background-color:transparent;
+    color: white;
+}
+
+.carousel-inner{
+    position: relative;
+ }
+.carousel-caption {
+    position: absolute;
+    top: 190px;
+    
+   
+    
+ }
+ .carousel-caption .head{
+    margin-right: 1200px;
+    width: 600px;
+    height: 150px;
+    text-align: left;
+ }
+ /* .carouselExampleCaptions{
+    transform:translate3d(-4047px, 0px, 0px);
+    transition: all 0s ease 0s;
+    width: 8094px;
+ } */
+ #navbarSupportedContent{
+    color: #5e068a;
+ }
+ #ul1 li a{
+    color: #1291f1;
+ }
+ #ul1 li a:hover{
+    color: #5e068a;
+ }
+ /* second part */
+ #inpt{
+   border: none;
+   
+}
+.btn{
+   background-color: blueviolet;
+   width: 150px;
+   height: 60px;
+}
+
+/* .modal-content{
+   width: 960px;
+   
+   
+   
+} */
+textarea{
+   border: none;
+}
+#bttn{
+   color: white;
+   background-color: blueviolet;
+   width:250px;
+   height: 100px;
+}
+#bttn:hover{
+   background-color: blue;
+}
+/* 3rd part */
+
+#middlhead{
+   color:purple;
+}
+#headr{
+   color: #5e068a99
+}
+#sice{
+   font-size:x-large
+}
+#stl{
+   width:240px;
+   height: 100px;
+   background-color: purple;
+   color: white;
+   border-radius: 50px;
+   font-size: large;
+}
+#stl:hover{
+   background-color: white;
+   color: purple;
+}
+
+ 
